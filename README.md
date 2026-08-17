@@ -54,7 +54,7 @@ studio-paper/
 Feito por **[Gabriel Rodrigues Gualiume]**
 
 - 💼 LinkedIn: [https://www.linkedin.com/in/gabriel-rodrigues-gualiume-13706b425/?skipRedirect=true]
-- 🌐 GitHub Pages: [Adicione o link do seu GitHub Pages aqui](#)
+- 🌐 GitHub Pages: [https://gabrielrodriguesgualiume.github.io/Studio-paper/](#)
 
 ## 📄 Licença
 
